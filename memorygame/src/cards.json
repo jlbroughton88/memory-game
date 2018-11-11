@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Picture1",
+        "image": "http://sohme.com/product/red-square/"
+    },
+    {
+        "id": 2,
+        "name": "Picture2",
+        "image": "http://sohme.com/product/red-square/"
+    },
+    {
+        "id": 3,
+        "name": "Picture3",
+        "image": "http://sohme.com/product/red-square/"
+    },
+    {
+        "id": 4,
+        "name": "Picture4",
+        "image": "http://sohme.com/product/red-square/"
+    },
+    {
+        "id": 5,
+        "name": "Picture5",
+        "image": "http://sohme.com/product/red-square/"
+    },
+    {
+        "id": 6,
+        "name": "Picture6",
+        "image": "http://sohme.com/product/red-square/"
+    }
+]
