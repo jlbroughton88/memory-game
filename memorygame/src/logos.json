@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name": "Transition Smuggler Carbon",
+        "image": "https://thumb.grindnetworks.com/4l6s8D4vHHLZ54opOKdiAMuZGDM=/1920x0/filters:format(jpg):quality(80):max_bytes(500000):sharpen(0.2%2C1%2Cfalse):strip_exif():strip_icc()/aHR0cHM6Ly9jZG4uYmlrZW1hZy5jb20vdXBsb2Fkcy8yMDE4LzAxL0d1bnNtb2tlLTk3MHg2NDYuanBn",
+        "count": 0
+    },
+    {
+        "id":2,
+        "name": "Yeti SB5",
+        "image": "https://cdn.shopify.com/s/files/1/0349/7357/files/2017YetiSB5-8Logo.jpg?v=1475878424",
+        "count": 0
+    },
+    {
+        "id":3,
+        "name": "Commencal Meta AM",
+        "image": "https://s14761.pcdn.co/wp-content/uploads/2016/08/016-META-AM-V4.2-RACE-BLACK.jpg",
+        "count": 0
+    },
+    {
+        "id":4,
+        "name": "Diamondback Release 3",
+        "image": "https://www.bikerumor.com/wp-content/uploads/2016/03/DB-Release-3-side-on-trail.jpg",
+        "count": 0
+    },
+    {
+        "id":5,
+        "name": "Canyon Spectral CF 8.0",
+        "image": "https://images.singletracks.com/blog/wp-content/uploads/2015/06/IMG_0108-1-1200x1085.jpg",
+        "count": 0
+    },
+    {
+        "id":6,
+        "name": "Trek Slash",
+        "image": "https://trek.scene7.com/is/image/TrekBicycleProducts/Slash9829_21968_A_Portrait?$responsive-pjpg$&wid=1200&hei=900",
+        "count": 0
+    },
+    {
+        "id":7,
+        "name": "Santa Cruz Bronson C",
+        "image": "https://license.citruslime.com/cs/blogs/rutland/santa-cruz-bronson-cc-sram-x01-carbon-mountain-bike-3_thumb_39B15C05.jpg",
+        "count": 0
+    },
+    {
+        "id":8,
+        "name": "Specialized Enduro",
+        "image": "https://thumbor-static.factorymedia.com/rnYUpCZ2JKzmIQdgeg6JSYQ6pSU=/1800x1200/smart/http%3A%2F%2Fcoresites-cdn.factorymedia.com%2Fdirt_new%2Fwp-content%2Fuploads%2F2016%2F01%2Fsworks-enduro29-4.jpg",
+        "count": 0
+    }
+]
